@@ -1,2 +1,1 @@
-# K-NearestNeighbor-Algorithm-
-# K-NearestNeighbor-Algorithm-
+# in this project I have implement the knn classifier and used a data set from keggle .I have train the model with 95 % accuracy rate i have also used some the most important evaluation matrix like f1-score and confusion matrix for the evaluation of my model
